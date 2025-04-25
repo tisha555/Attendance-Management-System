@@ -37,7 +37,7 @@ The system uses **Java** for backend logic, **JSP** for views, and **MySQL** for
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/attendance-management-system.git
 
 ## 🖼️ Sample UI Pages
@@ -62,7 +62,7 @@ git clone https://github.com/your-username/attendance-management-system.git
 
 ---
 
-## 🧮 Bonus Project: Number Guessing Game (Mini Java Console Project)
+### 🧮 Bonus Project: Number Guessing Game (Mini Java Console Project)
 
 A simple **Java** console application where the user guesses a randomly generated number between 1 and 100.
 
