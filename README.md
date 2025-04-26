@@ -79,7 +79,4 @@ This project is licensed for **educational and personal use** only. Not for comm
 
 ## 👤 Author
 **Tisha Mahato**  
-Computer Science Engineering (Cyber Security & Digital Forensics)  
-Vellore Institute of Technology  
-
 📧 tishaamahato10@gmail.com
